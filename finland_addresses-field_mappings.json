@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "properties": {
+      "municipality": { "type": "text" },
+      "street": { "type": "text" },
+      "house_number": { "type": "text" },
+      "postal_code": { "type": "text" }
+    }
+  }
+}
